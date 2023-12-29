@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 target
 .idea
 .bsp
+=======
+target/
+.bsp
+.idea
+>>>>>>> c56b2091f4f625c7598566cca8cc3efdf2ad681e
 */target
 *.class
